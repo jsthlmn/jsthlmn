@@ -1,6 +1,6 @@
 Hi there! Hilman here👋!
 <br>
-Since an unexpected event occurred with my previous repository🥀, I have decided to start fresh by creating this brand-new repository.
+Since an unexpected event occurred with my previous Github account🥀, I have decided to start fresh by creating this brand-new account.
 
 Ah, here we go again.. I'm a passionate developer. I'm interested in Data Engineering, Cloud Computing, and Machine Learning
 and.. Welcome to my GitHub profile!
