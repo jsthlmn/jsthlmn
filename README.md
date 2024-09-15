@@ -51,9 +51,8 @@ Here are some technologies I've been working with recently:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsthlmn&show_icons=true&locale=en" alt="jsthlmn" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsthlmn&" alt="jsthlmn" /></p>
 
-📌 Pinned Repositories
 
-Made with 💻 and ☕ by jsthlmn
+Made with 💻 and 😪🧠 by jsthlmn
 
 <!---
 jsthlmn/jsthlmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
